@@ -2,7 +2,7 @@
 Cypress Project README
 This Cypress project contains automated tests for various functionalities of the Parabank application.
 
-Prerequisites
+## prerequisites
 Before running the tests, ensure that you have the following installed:
 
 Node.js
@@ -13,15 +13,14 @@ Navigate to the project directory in your terminal.
 Install the dependencies by running the command:
 Copy code
 npm install
-Running the Tests
+## Running the Tests
 To run the Cypress tests, follow these steps:
 
 Open Cypress Test Runner:
-arduino
 Copy code
 npm run cypress:open
 In the Cypress Test Runner, select the desired test suite to run.
-Available Tests
+## Available Tests
 Login
 This test validates the login functionality of the Parabank application.
 
